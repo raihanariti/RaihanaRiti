@@ -929,6 +929,24 @@ h6 {
     transform: translateX(-50%);
 }
 
+.portfolio .portfolio-content .item .overlay .icon-group {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.portfolio .portfolio-content .item .overlay .icon-group a {
+    color: #fff;
+    font-size: 16px;
+    margin: 0 5px;
+    text-decoration: none;
+}
+
+.portfolio .portfolio-content .item .overlay .icon-group a:hover {
+    color: #dca52e;
+}
+
+
+
 /* --------------------------------------
    11. Fun Facts
 -----------------------------------------*/
